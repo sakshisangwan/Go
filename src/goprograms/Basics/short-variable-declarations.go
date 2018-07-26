@@ -1,3 +1,7 @@
+// := is the short assignment
+// Outside a function the short assignment cannot be used
+
+
 package main
 
 import "fmt"
